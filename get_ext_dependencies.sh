@@ -1,5 +1,6 @@
 mkdir dependencies
-cd dependenciesmkdir frontend && cd frontend
+cd dependencies
+mkdir frontend && cd frontend
 git clone https://github.com/PhilCAEOrg/WidgetTest
 cd ..
 mkdir microservices && cd microservices
